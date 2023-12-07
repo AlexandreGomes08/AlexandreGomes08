@@ -1,8 +1,11 @@
 # Alexandre Gomes
+<h3>Front-End Developer</h3>
 I currently study at the Federal University of Ceará (UFC) studying Computer Engineering, I have more experience in front-end development, but I am learning the back-end side to improve my skills and become full-stack.
 
+###
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreGomes08&show_icons=true&theme=dracula)
-### Front-End Developer
+### My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
