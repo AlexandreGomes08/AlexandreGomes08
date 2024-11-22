@@ -1,6 +1,6 @@
 # Alexandre Gomes
 <h3>Front-End Developer</h3>
-I currently study at the Federal University of Ceará (UFC) studying Computer Engineering, I have more experience in front-end development, but I am learning the back-end side to improve my skills and become full-stack.
+I currently study at the Federal University of Ceará (UFC) studying Computer Engineering, and I work as a front-end developer, my focus is to improve my skills and learn more technologies for web development and become full-stack.
 
 ###
 
