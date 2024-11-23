@@ -4,12 +4,26 @@ I currently study at the Federal University of Ceará (UFC) studying Computer En
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreGomes08&show_icons=true&theme=dracula)
+📚 Student at Federal University of Ceará (UFC) - Computer Engineering
+
+💻 Mobile developer - React Native
+
+🐱‍👓 I have interest in TypeScript, React and Node.js
+
+🚀 I'm learning Nest.js, Docker and PostgreSQL
+
+###
+
 ### My Stack
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  
   <img align="center" alt="Ale-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ale-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
