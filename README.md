@@ -1,5 +1,5 @@
 # Alexandre Gomes
-<h3>Front-End Developer</h3>
+<h3>Full Stack Developer</h3>
 I am a Computer Engineering student at the Federal University of Ceará (UFC) and currently work as a Full Stack Developer. My main goal is to continuously improve my technical skills and optimize my work by designing and implementing clean, robust, and scalable architectures. I am always seeking best practices, new technologies, and efficient solutions to build high-quality web applications.
 
 ###
