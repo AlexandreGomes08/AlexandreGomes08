@@ -1,34 +1,40 @@
 # Alexandre Gomes
 <h3>Front-End Developer</h3>
-I currently study at the Federal University of Ceará (UFC) studying Computer Engineering, and I work as a front-end developer, my focus is to improve my skills and learn more technologies for web development and become full-stack.
+I am a Computer Engineering student at the Federal University of Ceará (UFC) and currently work as a Full Stack Developer. My main goal is to continuously improve my technical skills and optimize my work by designing and implementing clean, robust, and scalable architectures. I am always seeking best practices, new technologies, and efficient solutions to build high-quality web applications.
 
 ###
 
-📚 Student at Federal University of Ceará (UFC) - Computer Engineering
+📚 Computer Engineering student at Federal University of Ceará (UFC)
 
-💻 Mobile developer - React Native
+💻 Full Stack Developer — React, React Native, Next.js, NestJS, PostgreSQL
 
-🐱‍👓 I have interest in TypeScript, React and Node.js
+🧠 Focused on clean architecture, scalable systems, and code quality
 
-🚀 I'm learning Nest.js, Docker and PostgreSQL
+🚀 Currently improving my skills in NestJS, Docker, PostgreSQL, and system design
+
+🐱‍👓 Interested in TypeScript, React, Node.js, and backend architecture
 
 ###
 
 ### My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ale-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Ale-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ale-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
   
   ##
  
