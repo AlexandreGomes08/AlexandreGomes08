@@ -41,6 +41,9 @@ I am a Computer Engineering student at the Federal University of Ceará (UFC) an
 <div> 
 
   <a href = "mailto:gomesalexandre227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandregomesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexandregomesdev" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://alexandregomesdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%432111?style=for-the-badge&logo=web&logoColor=white" target="_blank">
+  </a>
   
 </div>
